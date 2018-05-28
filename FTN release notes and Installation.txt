@@ -1,0 +1,110 @@
+Fear The Night by Dianddra (7 Days To Die Mod)
+
+INSTALLATION:
+Just drag and drop into your 7 Days To Die folder.
+
+
+
+
+Release Notes:
+
+ver 1.14 reverted back to regular backpack, could not get 1.13 to work with modlauncher. created seperate bigger backpack version.
+
+ver 1.13 changed to Simple UI and added bigger backpack (60 slot) & bigger mini-bike storage.
+
+ver 1.12
+fixed critical error with day 7 type hordes (blood moon hordes)
+
+ver 1.11
+entity group changes
+trader changes
+
+ver 1.10
+quest text changes
+
+ver 1.09
+added AxeOfDestruction
+
+ver 1.08
+tweaked heatmap
+
+ver 1.07
+fixed issue with zombies bodies
+tweaked vending machines
+
+ver. 1.06
+added glass to trader
+tweaked heatmap
+tweaked vending machine
+tweaked zombie corpses
+
+ver 1.05
+tweaked loot
+tweaked heatmap
+
+ver 1.04
+tweaked trader.xml
+added padlock to vending machine
+
+ver 1.03
+tweaked trader.xml
+
+ver 1.01
+tweaked zombie spawning
+tweaked loot
+tweaked storage box recipe
+
+ver 1.0
+overhauled zombie spawning
+overhauled blood moons
+added FTNVendingMachine
+added new quest
+
+ver 0.12
+tweaks to zombies spawning
+
+ver 0.11
+tweaked zombie spawning
+tweaked heat
+added chemistry stations, 44magnum, dirt, paint, spikes, and gas cans to vendors
+
+ver 0.10
+tweaked zombie spawning
+tweaked heat
+added devAxe
+tweaked vendors
+added books to vendors
+
+ver 0.09
+tweaks to zombie spawning
+
+ver 0.08
+tweaked zombie spawning
+fixed loot for zombie oldtimer feral
+added ironFragment to trader inventory
+
+ver 0.07
+tweaked zombie spawning
+
+ver 0.06
+removed  the compo pack due to errors
+tweaked the zombie spawning
+tweaked vendors
+
+ver 0.04
+compo pack and origin UI added to package
+tweaked rwgmixer
+changed localization quest text
+tweaked heat
+tweaked spawning
+
+version 0.03 
+renamed mod from DiaMod to FearTheNight Mod
+and ramped up the zombies!
+
+version 0.01 - 0.02
+basic mod building stuffs.
+
+
+Contact Dianddra via YouTube
+https://www.youtube.com/DianddraD
