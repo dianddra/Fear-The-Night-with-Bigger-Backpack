@@ -1,5 +1,5 @@
 # Fear-The-Night-with-Bigger-Backpack
-Fear The Night (with Simple UI and Bigger Backpack) is a mod where the zombies mostly come out at night (pretty much EVERY night),
+Fear The Night (with Simple UI, Magoli CompoPack, and Bigger Backpack) is a mod where the zombies mostly come out at night (pretty much EVERY night),
 and sleep in the day. Expect there to be a lot of zombies. Zombies drop coin for you to spend. Prepare your base 
 because the zombies are going to WRECK it. Pray you survive the night!
 
