@@ -1568,7 +1568,7 @@ Mesh files no longer used:
 <item id="109" name="AxeOfDestruction">
 	<property name="DescriptionKey" value="tazasStoneaxeDesc"/>
 	<property name="Extends" value="stoneAxe"/>
-	<property name="EconomicValue" value="10000"/>
+	<property name="EconomicValue" value="100"/>
 	<property name="CustomIcon" value="stoneAxe"/> <property name="CustomIconTint" value="ffffb0"/>
 	<property class="Action0">
 		<property name="Stamina_usage" value="0"/>
